@@ -2,7 +2,7 @@
 - 💬 Developer💻💶📌Soft-tech , Do things thats make you Happy 😃. 💫 innovation & Technology -The Era 📣
 - 🔭 I’m currently working SMAIT SOFTWARE
 - 🌱 I’m currently learning Flutter and dart 
- ### Nice to meet you!
+                    ### Nice to meet you
 
 
 <!--
