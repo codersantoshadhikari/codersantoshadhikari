@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Santosh Adhikari from Pokhara, Nepal. I'm a web and app developer. Nice to meet you!
+### Hi there 👋 I'm Santosh Adhikari from Pokhara, Nepal. 
+### Nice to meet you!
 - 💬 Developer💻💶📌Soft-tech , Do things thats make you Happy 😃. 💫 innovation & Technology -The Era 📣
 - 🔭 I’m currently working SMAIT SOFTWARE
 - 🌱 I’m currently learning Flutter and dart 
