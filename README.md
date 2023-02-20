@@ -1,4 +1,4 @@
-![santosh](https://user-images.githubusercontent.com/122032759/220100107-b7856559-3874-47a2-97b0-de4b06c17582.jpg) 
+![santosh](https://user-images.githubusercontent.com/122032759/220101886-7d03d2ed-db7d-444a-98f1-b5e2053cac88.jpg)
 ### Hi there 👋 I'm Santosh Adhikari from Pokhara, Nepal. 
 - 👯 Developer💻💶📌Soft-tech , Do things thats make you Happy 😃. 💫 innovation & Technology -The Era 📣
 - 🔭 I’m currently working SMAIT SOFTWARE
