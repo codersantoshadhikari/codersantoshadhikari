@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![santosh](https://user-images.githubusercontent.com/122032759/220099624-d934ab89-0adb-4919-9a71-73210cf07399.jpg)] http://santoshadhikari.name.np
+![santosh](https://user-images.githubusercontent.com/122032759/220100107-b7856559-3874-47a2-97b0-de4b06c17582.jpg)] http://santoshadhikari.name.np
 ![header_img](https://user-images.githubusercontent.com/122032759/220095862-7309701e-701c-493e-882a-f822d409a484.png)
 ![images](https://user-images.githubusercontent.com/122032759/220096810-b914d64a-5764-4493-bd19-8889697d6f39.jpg)
                
