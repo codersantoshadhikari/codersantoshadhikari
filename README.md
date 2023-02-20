@@ -1,4 +1,4 @@
-![santosh](https://user-images.githubusercontent.com/122032759/220100107-b7856559-3874-47a2-97b0-de4b06c17582.jpg) http://santoshadhikari.name.np
+![santosh](https://user-images.githubusercontent.com/122032759/220100107-b7856559-3874-47a2-97b0-de4b06c17582.jpg) 
 ### Hi there 👋 I'm Santosh Adhikari from Pokhara, Nepal. 
 - 👯 Developer💻💶📌Soft-tech , Do things thats make you Happy 😃. 💫 innovation & Technology -The Era 📣
 - 🔭 I’m currently working SMAIT SOFTWARE
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header_img](https://user-images.githubusercontent.com/122032759/220095862-7309701e-701c-493e-882a-f822d409a484.png)
+![header_img](https://user-images.githubusercontent.com/122032759/220095862-7309701e-701c-493e-882a-f822d409a484.png) http://santoshadhikari.name.np
 ![images](https://user-images.githubusercontent.com/122032759/220096810-b914d64a-5764-4493-bd19-8889697d6f39.jpg)
                
 
