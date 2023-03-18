@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Java, Python, Laravel or any tech-related stuff.<br>📫 How to reach me: Portfolio - @Santoshadhikary<br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.<br>🔫 My Weapon: MacBook pro
+👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about dart, flutter or any tech-related stuff.<br>📫 How to reach me: Portfolio - @Santoshadhikary<br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.<br>🔫 My Weapon: MacBook pro
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Santoshadhikary&label=Profile Views&color=orange&style=flat-square" alt="Santoshadhikary" /> </p>
 
 ## 🌐 Socials:
