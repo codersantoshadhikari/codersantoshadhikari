@@ -25,7 +25,7 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santoshadhikary&theme=github_dark"/>
 
 ## 📈 Contribution Graph:
-[![Santoshadhikary's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Santoshadhikary&theme=tokyo-night)](https://github.com/codersangam/github-readme-activity-graph)
+[![Santoshadhikary's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Santoshadhikary&theme=tokyo-night)](https://github.com/Santoshadhikary/github-readme-activity-graph)
 
 ## 🐍 Contribution Snake:
 ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
