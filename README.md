@@ -27,8 +27,6 @@
 ## 📈 Contribution Graph:
 [![Santoshadhikary's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Santoshadhikary&theme=tokyo-night)](https://github.com/Santoshadhikary/github-readme-activity-graph)
 
-## 🐍 Contribution Snake:
-![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
