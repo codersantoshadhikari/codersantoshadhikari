@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/WARP-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> 
   </a>
 </p>
-
 ## 🪪 Profile Summary
 <p align="center">
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshadhikary&theme=github_dark"/>
@@ -35,12 +34,5 @@
 </p>
 <br>
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshadhikary&theme=github_dark"/>
-
-
-
-
-
 ---
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
