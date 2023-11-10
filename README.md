@@ -1,4 +1,3 @@
-<img height="200px" src="neon_logo.gif"/>
 
 # 💫 About Me:
 👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Dart, Flutter  any tech-related stuff.<br>📫 How to reach me: Portfolio - @santoshadhikary<br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.<br>🔫 My Weapon: MacBook Air
