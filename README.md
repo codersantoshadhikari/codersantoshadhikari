@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** who loves building 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/nono.gif" alt="Header Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/nono.gif" alt="Animated Header" width="100%" />
 </div>
 
 ---
