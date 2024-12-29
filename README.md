@@ -31,15 +31,20 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codersantoshadhikari&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=codersantoshadhikari&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codersantoshadhikari&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codersantoshadhikari&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codersantoshadhikari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codersantoshadhikari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codersantoshadhikari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🚀 Auto-Commit System
+- **Commit Frequency:** Automated daily commits.
+- **Current Streak:** 1 day (Target: 2K contributions over all repositories).
+- **System Setup:** Configured with GitHub Actions for automated commits, updates from local repository changes, and cron job to sync changes every 24 hours.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codersantoshadhikari&icon=0&color=1)](https://visitcount.itsvg.in)
