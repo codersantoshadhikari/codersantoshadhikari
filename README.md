@@ -45,27 +45,3 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** who loves building 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codersantoshadhikari&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
-
----
-
-## 🚀 Auto-Commit System:
-
-Your auto-commit script can be written in Python and scheduled using a cron job. Here's a simple example:
-
-```python
-import os
-import subprocess
-from datetime import datetime
-
-# Path to your repository
-repo_path = "/path/to/your/repo"
-
-def auto_commit():
-    os.chdir(repo_path)
-    subprocess.run(["git", "add", "."])
-    commit_message = f"Auto-commit on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
-    subprocess.run(["git", "commit", "-m", commit_message])
-    subprocess.run(["git", "push"])
-
-if __name__ == "__main__":
-    auto_commit()
