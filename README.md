@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Santosh Adhikari!
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in **Full-Stack Development** and **UI/UX Design**. I thrive on creating efficient, scalable, and user-friendly solutions. 🚀
-
+<br>
+<img src="https://komarev.com/ghpvc/?username=codersantoshadhikari&color=orange&style=flat-square" alt="codersantoshadhikari" />
 ---
 
 <div align="center">
