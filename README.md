@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializin
   <img src="https://komarev.com/ghpvc/?username=codersantoshadhikari&color=orange&style=flat-square" alt="codersantoshadhikari" /> 
   <img src="https://wakatime.com/badge/user/2125b323-7ce2-4ea2-b733-03221534070e.svg"/>
 </p>
----
-
 <div align="center">
   <img src="nono.gif" alt="Santosh Adhikari Banner" width="100%" />
 </div>
