@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializin
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.gif" alt="Santosh Adhikari Banner" width="100%" />
+  <img src="nono.gif" alt="Santosh Adhikari Banner" width="100%" />
 </div>
 
 ---
