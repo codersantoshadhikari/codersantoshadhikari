@@ -91,18 +91,6 @@ Passionate about crafting elegant solutions and delightful user experiences. Tur
   </a>
 </div>
 
----
-
-## 💡 Currently Learning
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
----
-
-
-
 <p align="center"> 
   <i>Let's build something amazing together!</i> 🚀
 </p>
