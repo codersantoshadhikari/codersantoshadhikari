@@ -48,7 +48,7 @@ Passionate about crafting elegant solutions and delightful user experiences. Tur
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=np.smaittechnology.ludo)
 - Classic board game with online multiplayer functionality
 - Real-time gameplay with Firebase backend
-- 50,000+ downloads on Play Store
+- 10,000+ downloads on Play Store
 
 ### 🌍 Guess The Flag World
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=np.smait.guesstheflagworld)
