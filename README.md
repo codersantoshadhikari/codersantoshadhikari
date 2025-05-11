@@ -101,9 +101,7 @@ Passionate about crafting elegant solutions and delightful user experiences. Tur
 
 ---
 
-<div align="center">
-  <img src="https://github.com/codersantoshadhikari/codersantoshadhikari/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
+
 
 <p align="center"> 
   <i>Let's build something amazing together!</i> 🚀
