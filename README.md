@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=800&color=00C4B4&vCenter=true&width=650&lines=👋+Hello+World!+I'm+Santosh+Adhikari;💻+Full-Stack+Developer+&+UI/UX+Visionary;🚀+Crafting+Innovative+Solutions+Since+2018" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" style="border-radius: 10px;"/>
