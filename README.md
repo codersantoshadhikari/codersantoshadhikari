@@ -116,11 +116,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersantoshadhikari&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" width="400"/>
 </div>
 
-<div style="margin: 30px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=codersantoshadhikari&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" width="100%"/>
-</div>
 
----
 
 ## 🌐 Let's Connect
 
