@@ -78,7 +78,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp2Y3Z5bWJxM3Z3eWJ3eGx0a3l4dGx6dWt5d2JjZ3V1M2V2b3VtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9kt7Y7wQ/giphy.gif" width="100" style="float: right;"/>
 </div>
 - Real-time multiplayer board game with Firebase backend
-- 15K+ downloads, 4.5+ rating
+- 15K+ downloads, 5+ rating
 - Built with Flutter for cross-platform performance
 
 ### ♟️ Chess Master
