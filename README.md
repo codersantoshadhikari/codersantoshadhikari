@@ -1,63 +1,62 @@
 <div align="center">
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1a2R2b2F5dG1xY3J4d3J2eGZ6Y2V6d2V6bGJ4aGx1ZzV1aGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding workspace animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1a2R2b2F5dG1xY3J4d3J2eGZ6Y2V6d2V6bGJ4aGx1ZzV1aGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Innovative Developer Workspace"/>
 </div>
 
----
-
-## 🎯 Professional Profile
-
-**Innovative Software Engineer** with **6+ years** of experience delivering high-performance applications across mobile, web, and cloud platforms. **Technical Founder** at SMAIT Technology, specializing in:
-
-- **Cross-platform** mobile development (Flutter, React Native)
-- **Scalable** cloud architectures (AWS, GCP)
-- **High-conversion** UI/UX design
-- **AI-integrated** solutions
-- **Enterprise-grade** system design
+<h1 align="center">Santosh Adhikari</h1>
+<h3 align="center">Technical Founder | Full-Stack Architect | Mobile Engineering Specialist</h3>
 
 <div align="center">
   <a href="https://santoshadhikari.info.np">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-00C4B4?style=for-the-badge&logo=color-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00C4B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=8310692885659472367">
+    <img src="https://img.shields.io/badge/🚀_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
   </a>
   <a href="https://www.smaittechnology.com.np">
-    <img src="https://custom-icon-badges.demolab.com/badge/SMAIT_Technology-FF6F61?style=for-the-badge&logo=company" alt="Company"/>
-  </a>
-  <a href="mailto:santosh.ad215@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-Professional-FF6F61?style=for-the-badge&logo=mail" alt="Email"/>
+    <img src="https://img.shields.io/badge/🏢_SMAIT_Technology-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company"/>
   </a>
 </div>
 
 ---
 
-## 🛠️ Core Competencies
+## 🚀 Professional Snapshot
 
-### 📱 Mobile Engineering Excellence
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Expert"/>
-  <img src="https://img.shields.io/badge/Kotlin-Advanced-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Swift-Intermediate-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/React_Native-Pro-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Android_NDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android NDK"/>
+**Visionary Technologist** with **6+ years** of experience building scalable digital solutions. As **Founder & CTO** of SMAIT Technology, I've spearheaded the development of:
+
+- **50+ production applications** with **500K+** combined users
+- **Enterprise-grade** solutions for banking, healthcare, and e-commerce
+- **High-performance** mobile experiences (60 FPS animations)
+- **Cost-optimized** cloud architectures (40% infrastructure savings)
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 📱 Mobile Development
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </div>
 
-### 🌐 Full-Stack Mastery
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+### 🌐 Full Stack Development
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
 </div>
 
 ### ☁️ Cloud & DevOps
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-  <img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-Expert-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/CI/CD-Expert-FF6F61?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </div>
 
 ---
@@ -66,117 +65,123 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
-### 🏅 Technical Leadership
-- Founded and scaled **SMAIT Technology** to 15+ team members
-- Architected **50+ production applications** serving 500K+ users
-- Reduced client infrastructure costs by **40%** through cloud optimization
+### 🏅 Industry Recognition
+- **Google Play Featured** apps (Editors' Choice)
+- **100K+ downloads** for educational applications
+- **4.8+ avg rating** across all published apps
 
-### 🚀 Performance Optimization
-- Achieved **60 FPS** in complex Flutter animations
-- Reduced mobile app size by **35%** through advanced bundling
-- Implemented caching that improved API response times by **300%**
+### ⚡ Performance Excellence
+- **60 FPS** consistently maintained in Flutter apps
+- **35% reduction** in app bundle sizes
+- **300% improvement** in API response times
 
-### 📈 Business Impact
-- Developed apps featured in **Google Play's Editors' Choice**
-- Created educational apps with **100K+ downloads**
-- Built enterprise solutions for **banking and healthcare** sectors
-
-</div>
-
----
-
-## 💼 Enterprise Projects
-
-### 🏦 Banking Solutions Suite
-- **Secure mobile banking** platform with biometric auth
-- **Real-time transaction** processing system
-- **Fraud detection** using machine learning
-
-### 🏥 Healthcare Management System
-- HIPAA-compliant **patient records** portal
-- **Telemedicine** platform with WebRTC integration
-- **IoT-enabled** health monitoring
-
-### 🛒 E-Commerce Ecosystem
-- **Multi-vendor** marketplace with payment gateway
-- **AR product visualization** using Sceneform/ARKit
-- **Personalized recommendation** engine
-
----
-
-## 📈 GitHub Analytics
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  
-  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codersantoshadhikari&show_icons=true&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersantoshadhikari&layout=compact&theme=merko&hide_border=true&bg_color=00000000&langs_count=8)
-  
-  ![Streak Stats](https://streak-stats.demolab.com?user=codersantoshadhikari&theme=merko&hide_border=true&background=00000000&mode=weekly)
+### 🏢 Enterprise Impact
+- **Banking solutions** processing 10K+ daily transactions
+- **Healthcare systems** serving 50+ clinics
+- **E-commerce platforms** with 1M+ monthly visitors
 
 </div>
 
 ---
 
-## 🎨 Design Philosophy
+## 📱 Featured Play Store Applications
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+
+### 🎓 Educational Apps
+- **Class 10 Science Guide** - 50K+ downloads
+- **SEE Preparation** - Top-rated learning app
+- **Nepali Dictionary** - Featured by Google
+
+### 💼 Productivity Tools
+- **Expense Manager Pro** - 4.9⭐ rating
+- **Task Flow** - Award-winning UI
+- **PDF Toolkit** - 100K+ installs
+
+### 🏢 Enterprise Solutions
+- **Banking Client** - Secure transaction platform
+- **Healthcare Portal** - HIPAA-compliant records
+- **Retail POS** - Multi-store management
+
+</div>
+
+---
+
+## 📊 Development Insights
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+  
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codersantoshadhikari&show_icons=true&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&show_owner=true)
+  
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersantoshadhikari&layout=compact&theme=merko&hide_border=true&bg_color=00000000&langs_count=8&exclude_repo=github-readme-stats)
+  
+  ![Streak Stats](https://streak-stats.demolab.com?user=codersantoshadhikari&theme=merko&hide_border=true&background=00000000&mode=weekly&fire=FF6F61)
+
+</div>
+
+---
+
+## 🎯 Development Philosophy
+
+### 🧠 Core Principles
+- **User-Centric Design**: Intuitive UI/UX with 95%+ satisfaction
+- **Performance First**: Optimized for low-end devices
+- **Secure by Default**: Regular penetration testing
+
+### 🛠️ Technical Standards
+- **Clean Architecture**: Modular, testable codebases
+- **TDD Approach**: 90%+ test coverage
+- **CI/CD Pipelines**: Automated quality gates
+
+### 📈 Continuous Improvement
+- **Weekly tech reviews**
+- **Quarterly architecture audits**
+- **Annual skill upgrades**
+
+---
+
+## 📚 Certifications & Education
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
 
-### 🖌️ UI/UX Principles
-- **Minimalist** yet functional interfaces
-- **Motion design** for intuitive navigation
-- **Accessibility-first** approach (WCAG 2.1)
+### 🏅 Certifications
+- **AWS Certified Solutions Architect**
+- **Google Mobile Web Specialist**
+- **Flutter Master Certification**
 
-### 🛠️ Development Practices
-- **Clean Architecture** implementation
-- **Test-Driven** Development (TDD)
-- **Performance** as a feature
-
-### 🔍 Quality Assurance
-- **Unit & Integration** testing
-- **E2E** testing with Cypress/Appium
-- **Static analysis** with SonarQube
+### 🎓 Education
+- **BSc. Computer Science & IT**
+- **Mobile Development Specialization**
+- **Cloud Architecture Training**
 
 </div>
 
 ---
 
-## 📚 Continuous Learning
+## 🤝 Collaboration Opportunities
 
-**Currently mastering:**
-- **AI/ML** integration in mobile apps
-- **Web3** and blockchain development
-- **Rust** for performance-critical systems
+I partner with organizations for:
 
-**Certifications:**
-- AWS Certified Solutions Architect
-- Google Mobile Web Specialist
-- Flutter Master Certification
-
----
-
-## 🤝 Strategic Partnerships
-
-I collaborate with:
-- **Startups** for MVP development
-- **Enterprises** for digital transformation
-- **Agencies** for technical consulting
+- **MVP Development**: 0-to-1 product creation
+- **Technical Due Diligence**: Architecture reviews
+- **Performance Optimization**: Speed & cost savings
+- **Team Upskilling**: Training & mentoring
 
 ---
 
 <div align="center">
-  <h3>🚀 Ready to Elevate Your Digital Presence?</h3>
-  <p>Let's architect solutions that drive real business results</p>
+  <h2>🚀 Let's Build Something Extraordinary</h2>
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision</p>
   
-  <div style="margin: 20px 0;">
+  <div style="margin: 30px 0;">
     <a href="mailto:santosh.ad215@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_Me-FF6F61?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact"/>
+      <img src="https://img.shields.io/badge/✉️_Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://linkedin.com/in/codersantoshadhikari">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://calendly.com/santosh-adhikari">
-      <img src="https://img.shields.io/badge/Schedule_Call-00C4B4?style=for-the-badge&logo=google-meet&logoColor=white" alt="Calendly"/>
+      <img src="https://img.shields.io/badge/📅_Schedule_Call-00C4B4?style=for-the-badge&logo=google-meet&logoColor=white" alt="Calendly"/>
     </a>
   </div>
 </div>
