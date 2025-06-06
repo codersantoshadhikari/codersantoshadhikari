@@ -1,15 +1,5 @@
 </div>
 
-<p align="center">
-    <a href="https://soar.qaidvoid.dev/installation">
-        <img src="https://soar.pkgforge.dev/gif?version=v0.5.15+1" alt="soar-list" width="750">
-    </a><br>
-</p>
-
-
-
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1a2R2b2F5dG1xY3J4d3J2eGZ6Y2V6d2V6bGJ4aGx1ZzV1aGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Code Animation"/>
 </div>
@@ -142,3 +132,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4B4&height=120&section=footer&animation=fadeIn&fontSize=40" alt="Footer wave"/>
 </div>
+
+
+
+<p align="center">
+    <a href="https://soar.qaidvoid.dev/installation">
+        <img src="https://soar.pkgforge.dev/gif?version=v0.5.15+1" alt="soar-list" width="750">
+    </a><br>
+</p>
+
