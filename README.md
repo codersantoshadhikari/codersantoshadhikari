@@ -63,7 +63,7 @@
 
 ## 🏆 Featured Projects
 
-### 🎮 Ludo Kingdom - Ultimate Multiplayer
+### 🎮 Ludo 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8310692885659472367)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
 
@@ -108,7 +108,7 @@
 ## 🎓 Education & Certifications
 
 - **MBA in Ethical Hacking & Cybersecurity**
-- **Flutter Development Expert** - Google Certified
+- **Flutter Development ** - Certified
 - **Unity Certified Developer**
 - **Certified Ethical Hacker (CEH)** - EC-Council
 
@@ -136,10 +136,10 @@
 ## 💖 Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/santosh215" target="_blank">
+  <a href="https://buymeacoffee.com/santoshadh7" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="217" alt="Buy Me A Coffee"/>
   </a>
-  <a href="https://ko-fi.com/santosh215" target="_blank">
+  <a href="https://buymeacoffee.com/santoshadh7" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Ko-fi"/>
   </a>
 </p>
