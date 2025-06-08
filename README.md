@@ -1,293 +1,147 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Portfolio of Santosh Adhikari, Senior Mobile App Developer and Technical Founder at SMAIT Technology.">
-  <meta name="keywords" content="Santosh Adhikari, Mobile App Developer, Flutter, React Native, Unity, SMAIT Technology">
-  <meta name="author" content="Santosh Adhikari">
-  <title>Santosh Adhikari | Senior Mobile App Developer</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Inter', sans-serif;
-    }
+</div>
 
-    body {
-      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-      color: #333;
-      line-height: 1.6;
-      padding: 20px;
-    }
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1a2R2b2F5dG1xY3J4d3J2eGZ6Y2V6d2V6bGJ4aGx1ZzV1aGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Code Animation"/>
+</div>
 
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
 
-    h1, h2, h3 {
-      color: #1a1a1a;
-      margin-bottom: 20px;
-    }
+<h1 align="center">Santosh Adhikari</h1>
+<h2 align="center">Senior Mobile App Developer & Technical Founder</h2>
 
-    h1 {
-      font-size: 2.5rem;
-      font-weight: 700;
-    }
+<div align="center">
+  <a href="https://santoshadhikari.info.np">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00C4B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=8310692885659472367">
+    <img src="https://img.shields.io/badge/📱_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
+  </a>
+  <a href="https://www.smaittechnology.com.np">
+    <img src="https://img.shields.io/badge/🚀_SMAIT_Technology-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company"/>
+  </a>
+</div>
 
-    h2 {
-      font-size: 1.8rem;
-      font-weight: 600;
-    }
+---
 
-    .hero {
-      text-align: center;
-      padding: 50px 0;
-      background: #00C4B4;
-      color: white;
-      border-radius: 10px;
-      margin-bottom: 40px;
-      animation: fadeIn 1s ease-in;
-    }
+## 👨‍💻 Professional Profile
 
-    .hero img {
-      border-radius: 50%;
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
-      margin-bottom: 20px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    }
+**Innovative Software Developer** with **6+ years** of specialized experience in mobile application development. As **Founder of SMAIT Technology**, I've led the creation of **60+ applications** with **15+ currently published** on app stores. My passion lies in building technical solutions that bridge digital innovation with real-world impact.
 
-    .badges, .social-links {
-      display: flex;
-      gap: 10px;
-      justify-content: center;
-      flex-wrap: wrap;
-      margin: 20px 0;
-    }
+**Core Competencies:**
+- Mobile App Development (Flutter, React Native, Kotlin)
+- Full-Stack Development (Node.js, Firebase, MongoDB)
+- Game Development (Unity, Ludo Game Specialist)
+- Ethical Hacking & Security (MBA Certified)
+- Startup Leadership & Technical Management
 
-    .badges a, .social-links a {
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
+---
 
-    .badges a:hover, .social-links a:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    }
+## 🏆 Key Achievements
 
-    .section {
-      background: white;
-      border-radius: 10px;
-      padding: 30px;
-      margin-bottom: 40px;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-      animation: slideIn 0.5s ease-in;
-    }
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-    }
+### 🚀 Published Applications
+- **60+ applications** developed
+- **15+ live apps** on Play Store/App Store
+- Featured **Ludo gaming application** with 10K+ downloads
 
-    .card {
-      background: #f9f9f9;
-      padding: 20px;
-      border-radius: 8px;
-      transition: transform 0.3s ease;
-    }
+### 🎓 Education & Certification
+- **MBA in Ethical Hacking** - Cybersecurity specialization
+- **Mobile Development Certifications** - Flutter, React Native
+- **Continuous learning** in emerging technologies
 
-    .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
-    }
+### 🏢 SMAIT Technology
+- Founded and scaled tech startup
+- Innovating games, apps, and software solutions
+- Building a smarter digital world through technology
 
-    .tech-stack img {
-      width: 32px;
-      height: 32px;
-      margin: 5px;
-      transition: transform 0.3s ease;
-    }
+</div>
 
-    .tech-stack img:hover {
-      transform: scale(1.2);
-    }
+---
 
-    .cta-button {
-      display: inline-block;
-      padding: 12px 24px;
-      background: #FF6F61;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-      transition: background 0.3s ease;
-    }
+## 🎮 Featured Project: Ludo Game
 
-    .cta-button:hover {
-      background: #e55a4e;
-    }
+[![Ludo Game](https://img.shields.io/badge/🎮_Ludo_Game-FF6F61?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=np.smaittechnology.ludo)
 
-    .footer {
-      text-align: center;
-      padding: 20px;
-      background: #1a1a1a;
-      color: white;
-      border-radius: 10px;
-      margin-top: 40px;
-    }
+**Key Features:**
+- Multiplayer online gameplay
+- Smooth 60FPS performance
+- Secure authentication system
+- Real-time matchmaking
 
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
+**Technologies Used:**
+- Unity Game Engine
+- Firebase Realtime Database
+- Google Play Services
+- In-app purchase integration
 
-    @keyframes slideIn {
-      from { transform: translateY(20px); opacity: 0; }
-      to { transform: translateY(0); opacity: 1; }
-    }
+---
 
-    @media (max-width: 768px) {
-      h1 { font-size: 2rem; }
-      h2 { font-size: 1.5rem; }
-      .hero img { width: 120px; height: 120px; }
-      .grid { grid-template-columns: 1fr; }
-    }
+## 🛠️ Technical Stack
 
-    @media (prefers-color-scheme: dark) {
-      body {
-        background: linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%);
-        color: #e0e0e0;
-      }
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
 
-      h1, h2, h3 { color: #e0e0e0; }
-      .section { background: #2c2c2c; }
-      .card { background: #3a3a3a; }
-      .footer { background: #121212; }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <!-- Hero Section -->
-    <div class="hero">
-      <img src="https://via.placeholder.com/150" alt="Santosh Adhikari Profile Picture">
-      <h1>Santosh Adhikari</h1>
-      <h2>Senior Mobile App Developer & Technical Founder</h2>
-      <div class="badges">
-        <a href="https://santoshadhikari.info.np"><img src="https://img.shields.io/badge/🌐_Portfolio-00C4B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-        <a href="https://play.google.com/store/apps/dev?id=8310692885659472367"><img src="https://img.shields.io/badge/📱_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"></a>
-        <a href="https://www.smaittechnology.com.np"><img src="https://img.shields.io/badge/🚀_SMAIT_Technology-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company"></a>
-      </div>
-    </div>
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-    <!-- Professional Profile -->
-    <div class="section">
-      <h2>👨‍💻 Professional Profile</h2>
-      <p><strong>Innovative Software Developer</strong> with <strong>6+ years</strong> of specialized experience in mobile application development. As <strong>Founder of SMAIT Technology</strong>, I've led the creation of <strong>60+ applications</strong> with <strong>15+ currently published</strong> on app stores. My passion lies in building technical solutions that bridge digital innovation with real-world impact.</p>
-      <h3>Core Competencies:</h3>
-      <ul>
-        <li>Mobile App Development (Flutter, React Native, Kotlin)</li>
-        <li>Full-Stack Development (Node.js, Firebase, MongoDB)</li>
-        <li>Game Development (Unity, Ludo Game Specialist)</li>
-        <li>Ethical Hacking & Security (MBA–
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-Certified)</li>
-        <li>Startup Leadership & Technical Management</li>
-      </ul>
-    </div>
+### ☁️ Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-    <!-- Key Achievements -->
-    <div class="section">
-      <h2>🏆 Key Achievements</h2>
-      <div class="grid">
-        <div class="card">
-          <h3>🚀 Published Applications</h3>
-          <p>Developed <strong>60+ applications</strong>, with <strong>15+ live</strong> on Play Store/App Store. Featured <strong>Ludo gaming application</strong> with 10K+ downloads.</p>
-        </div>
-        <div class="card">
-          <h3>🎓 Education & Certification</h3>
-          <p><strong>MBA in Ethical Hacking</strong> - Cybersecurity Specialization. Certified in <strong>Flutter</strong> and <strong>React Native</strong>. Committed to continuous learning in emerging technologies.</p>
-        </div>
-        <div class="card">
-          <h3>🏢 SMAIT Technology</h3>
-          <p>Founded and scaled a tech startup focused on innovating games, apps, and software solutions, building a smarter digital world.</p>
-        </div>
-      </div>
-    </div>
+### 🔒 Security
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF6F61?style=flat-square&logo=lock&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0078D7?style=flat-square&logo=shield-check&logoColor=white)
 
-    <!-- Featured Project -->
-    <div class="section">
-      <h2>🎮 Featured Project: Ludo Game</h2>
-      <a href="https://play.google.com/store/apps/details?id=np.smaittechnology.ludo"><img src="https://img.shields.io/badge/🎮_Ludo_Game-FF6F61?style=for-the-badge&logo=google-play&logoColor=white" alt="Ludo Game"></a>
-      <p><strong>Key Features:</strong></p>
-      <ul>
-        <li>Multiplayer online gameplay</li>
-        <li>Smooth 60FPS performance</li>
-        <li>Secure authentication system</li>
-        <li>Real-time matchmaking</li>
-      </ul>
-      <p><strong>Technologies Used:</strong> Unity, Firebase Realtime Database, Google Play Services, In-app Purchases</p>
-    </div>
+</div>
 
-    <!-- Technical Stack -->
-    <div class="section">
-      <h2>🛠️ Technical Stack</h2>
-      <div class="grid tech-stack">
-        <div><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter"> Flutter</div>
-        <div><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native"> React Native</div>
-        <div><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"> Kotlin</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"> Unity</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"> C#</div>
-        <div><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"> Firebase</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"> Node.js</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"> MongoDB</div>
-        <div><img src="https://img.shields.io/badge/Ethical_Hacking-FF6F61?style=flat-square&logo=lock&logoColor=white" alt="Ethical Hacking"> Ethical Hacking</div>
-      </div>
-    </div>
+---
 
-    <!-- Why Work With Me -->
-    <div class="section">
-      <h2>🌟 Why Work With Me?</h2>
-      <ul>
-        <li><strong>Proven Track Record:</strong> 60+ successful applications</li>
-        <li><strong>Full-Cycle Development:</strong> From concept to publication</li>
-        <li><strong>Security-Focused:</strong> MBA in Ethical Hacking ensures secure apps</li>
-        <li><strong>User-Centric Design:</strong> Apps with high retention rates</li>
-        <li><strong>Technical Leadership:</strong> Founder managing development teams</li>
-      </ul>
-    </div>
+## 🌟 Why Work With Me?
 
-    <!-- Let's Connect -->
-    <div class="section">
-      <h2>📬 Let's Connect</h2>
-      <p>I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.</p>
-      <div class="social-links">
-        <a href="mailto:santosh.ad215@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-        <a href="https://www.linkedin.com/in/santosh-adhikari-b24324265/"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="https://play.google.com/store/apps/dev?id=8310692885659472367"><img src="https://img.shields.io/badge/📱_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"></a>
-        <a href="https://x.com/santosh215"><img src="https://img.shields.io/badge/🐦_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-        <a href="https://www.instagram.com/codersantoshadhikari/"><img src="https://img.shields.io/badge/📸_Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-      </div>
-    </div>
+- **Proven Track Record**: 60+ successful applications
+- **Full-Cycle Development**: From concept to publication
+- **Security-Focused**: MBA in Ethical Hacking ensures secure apps
+- **User-Centric Design**: Apps with high retention rates
+- **Technical Leadership**: Founder managing development teams
 
-    <!-- Support Me -->
-    <div class="section">
-      <h2>❤️ Support Me</h2>
-      <div class="grid">
-        <a href="https://www.buymeacoffee.com/santosh215" class="cta-button">Buy Me a Coffee</a>
-        <a href="https://www.ko-fi.com/santosh215" class="cta-button">Support on Ko-fi</a>
-      </div>
-    </div>
+---
 
-    <!-- Footer -->
-    <div class="footer">
-      <p>&copy; 2025 Santosh Adhikari. All rights reserved.</p>
-    </div>
+<div align="center">
+  <h2>📬 Let's Connect</h2>
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to collaborate</p>
+  
+  <div style="margin: 30px 0;">
+    <a href="mailto:santosh.ad215@gmail.com">
+      <img src="https://img.shields.io/badge/✉️_Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://linkedin.com/in/codersantoshadhikari">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://play.google.com/store/apps/dev?id=8310692885659472367">
+      <img src="https://img.shields.io/badge/📱_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
+    </a>
   </div>
-</body>
-</html>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4B4&height=120&section=footer&animation=fadeIn&fontSize=40" alt="Footer wave"/>
+</div>
+
+
+
+## Demo Code
+
+
+
+<p align="center">
+    <a href="https://soar.qaidvoid.dev/installation">
+        <img src="https://soar.pkgforge.dev/gif?version=v0.5.15+1" alt="soar-list" width="750">
+    </a><br>
+</p>
+
