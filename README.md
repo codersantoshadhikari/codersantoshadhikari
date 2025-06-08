@@ -76,7 +76,7 @@
 - Real-time multiplayer with WebSocket
 - In-app purchases system
 - Unity3D optimized for mobile
-- 50,000+ downloads
+- 40000+ downloads
 
 ### 💼 SME Business Suite Pro
 [![Web App](https://img.shields.io/badge/Web_App-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.smaittechnology.com.np)
