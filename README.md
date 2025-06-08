@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Professional Profile
 
-**Innovative Software Architect** with **6+ years** of experience specializing in cross-platform mobile development and game engineering. As **Founder & CTO of SMAIT Technology**, I've spearheaded the development of **60+ applications** with **15+ published** on major app stores, serving **50,000+ users** worldwide.
+**Innovative Software Architect** with **6+ years** of experience specializing in cross-platform mobile development and game engineering. As ** CEO of SMAIT Technology**, I've spearheaded the development of **60+ applications** with **15+ published** on major app stores, serving **50,000+ users** worldwide.
 
 ### Core Expertise Areas:
 - 📱 **Mobile Development**: Flutter | React Native | Kotlin | Swift
@@ -74,9 +74,7 @@
 
 **Features:**
 - Real-time multiplayer with WebSocket
-- In-app purchases system
-- Unity3D optimized for mobile
-- 50,000+ downloads
+- 30,000+ downloads
 
 ### 💼 SME Business Suite Pro
 [![Web App](https://img.shields.io/badge/Web_App-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.smaittechnology.com.np)
