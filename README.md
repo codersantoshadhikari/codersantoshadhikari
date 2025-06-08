@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Santosh+Adhikari;Senior+Mobile+App+Developer;Game+Development+Expert;Cybersecurity+Specialist;Technical+Founder+@SMAIT" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Santosh+Adhikari;Senior+Mobile+App+Developer;Game+Development+Expert;Cybersecurity+Specialist;Technical+Founder+SMAIT TECHNOLOGY" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Professional Profile
 
-**Innovative Software Architect** with **6+ years** of experience specializing in cross-platform mobile development and game engineering. As **Founder & CTO of SMAIT Technology**, I've spearheaded the development of **60+ applications** with **15+ published** on major app stores, serving **50,000+ users** worldwide.
+**Innovative Software Architect** with **6+ years** of experience specializing in cross-platform mobile development and game engineering. As ** CEO of SMAIT Technology**, I've spearheaded the development of **60+ applications** with **15+ published** on major app stores, serving **10,000+ users** worldwide.
 
 ### Core Expertise Areas:
 - 📱 **Mobile Development**: Flutter | React Native | Kotlin | Swift
@@ -67,7 +67,7 @@
 
 ## 🏆 Featured Projects
 
-### 🎮 Ludo Kingdom - Ultimate Multiplayer
+### 🎮 Ludo  Multiplayer
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=np.smaittechnology.ludo)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id)
 - 50,000+ downloads across platforms
@@ -106,7 +106,7 @@
 ## 🎓 Education & Certifications
 
 - **MBA in Ethical Hacking & Cybersecurity** - International University
-- **Flutter Development Expert** - Google Certified
+- **Flutter Development ** -  Certified
 - **Unity Certified Developer** - Unity Technologies
 - **Certified Ethical Hacker (CEH)** - EC-Council
 - **AWS Certified Developer** - Amazon Web Services
@@ -141,10 +141,10 @@
 ## 💖 Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/santosh215" target="_blank">
+  <a href="https://coff.ee/santoshadh7" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="217" alt="Buy Me A Coffee"/>
   </a>
-  <a href="https://ko-fi.com/santosh215" target="_blank">
+  <a href="https://coff.ee/santoshadh7" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Ko-fi"/>
   </a>
 </p>
