@@ -20,6 +20,11 @@
 - 🚀 **Technical Leadership**: Startup Scaling | Team Management | Agile Processes
 
 ---
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=codersantoshadhikari&color=orange&style=flat-square" alt="codersantoshadhikari" /> 
+  <img src="https://wakatime.com/@codersantoshadhikari"/>
+</p>
+
 
 ## 🛠️ Technology Stack
 
