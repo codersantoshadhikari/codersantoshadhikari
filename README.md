@@ -22,7 +22,7 @@
 ---
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=codersantoshadhikari&color=orange&style=flat-square" alt="codersantoshadhikari" /> 
-  <img src="https://wakatime.com/@codersantoshadhikari"/>
+  <img src="https://wakatime.com/badge/user/4818b327-9c94-4397-85a6-c82a5027f03c.svg"/>
 </p>
 
 
