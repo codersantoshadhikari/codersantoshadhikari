@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Santosh+Adhikari;Senior+Mobile+App+Developer;Game+Development+Expert;Cybersecurity+Specialist;Technical+Founder+@SMAIT TECHNOLOGY" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Santosh+Adhikari;Senior+Mobile+App+Developer;Game+Development+Expert;Cybersecurity+Specialist;Technical+Founder+@SMAIT" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Professional Profile
 
-**Innovative Software Architect** with **6+ years** of experience specializing in cross-platform mobile development and game engineering. As ** CEO of SMAIT Technology**, I've spearheaded the development of **60+ applications** with **15+ published** on major app stores, serving **10,000+ users** worldwide.
+**Innovative Software Architect** with **6+ years** of experience specializing in cross-platform mobile development and game engineering. As **Founder & CTO of SMAIT Technology**, I've spearheaded the development of **60+ applications** with **15+ published** on major app stores, serving **50,000+ users** worldwide.
 
 ### Core Expertise Areas:
 - 📱 **Mobile Development**: Flutter | React Native | Kotlin | Swift
@@ -43,73 +43,66 @@
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-EE3124?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🎮 Ludo  Multiplayer
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=np.smaittechnology.ludo)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id)
-- 50,000+ downloads across platforms
+### 🎮 Ludo Kingdom - Ultimate Multiplayer
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8310692885659472367)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
+
+**Features:**
 - Real-time multiplayer with WebSocket
-- In-app purchases and reward system
-- Unity3D optimized for mobile performance
+- In-app purchases system
+- Unity3D optimized for mobile
+- 50,000+ downloads
 
 ### 💼 SME Business Suite Pro
-[![Web App](https://img.shields.io/badge/Web_App-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smaittechnology.com.np)
-- Flutter web + mobile hybrid application
-- Firebase backend with Cloud Functions
-- Role-based access control system
-- Integrated payment gateway
+[![Web App](https://img.shields.io/badge/Web_App-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.smaittechnology.com.np)
+
+**Features:**
+- Flutter web + mobile hybrid
+- Firebase backend integration
+- Role-based access control
+- Payment gateway integration
 
 ---
 
+## 📊 GitHub Analytics
 
-## 🪪 Profile Summary
-<p align="center">
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codersantoshadhikari&theme=github_dark"/>
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codersantoshadhikari&theme=github_dark&utcOffset=8"/>
-</p>
-<br>
-<p align="center">
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codersantoshadhikari&theme=github_dark"/>
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codersantoshadhikari&theme=github_dark"/>
-</p>
-<br>
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersantoshadhikari&theme=github_dark"/>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SANTOSHADHIKARI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SANTOSHADHIKARI&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-## 📈 Contribution Graph:
-[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codersantoshadhikari&theme=tokyo-night)](https://github.com/codersangam/github-readme-activity-graph)
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANTOSHADHIKARI&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
 
-
+---
 
 ## 🎓 Education & Certifications
 
-- **MBA in Ethical Hacking & Cybersecurity** - International University
-- **Flutter Development ** -  Certified
-- **Unity Certified Developer** - Unity Technologies
+- **MBA in Ethical Hacking & Cybersecurity**
+- **Flutter Development Expert** - Google Certified
+- **Unity Certified Developer**
 - **Certified Ethical Hacker (CEH)** - EC-Council
-- **AWS Certified Developer** - Amazon Web Services
 
 ---
 
@@ -117,22 +110,16 @@
 
 <p align="center">
   <a href="https://santoshadhikari.info.np" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/codersantoshadhikari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/santosh215" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/codersantoshadhikari" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:santosh.ad215@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@SantoshAdhikari-lk7tk" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -141,10 +128,10 @@
 ## 💖 Support My Work
 
 <p align="center">
-  <a href="https://coff.ee/santoshadh7" target="_blank">
+  <a href="https://www.buymeacoffee.com/santosh215" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="217" alt="Buy Me A Coffee"/>
   </a>
-  <a href="https://coff.ee/santoshadh7" target="_blank">
+  <a href="https://ko-fi.com/santosh215" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Ko-fi"/>
   </a>
 </p>
@@ -154,5 +141,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontSize=40" alt="Footer Wave"/>
 </div>
