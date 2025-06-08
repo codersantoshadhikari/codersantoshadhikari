@@ -86,10 +86,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SANTOSHADHIKARI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SANTOSHADHIKARI&theme=radical&hide_border=true" />
-</div>
+
 
 <div align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANTOSHADHIKARI&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
