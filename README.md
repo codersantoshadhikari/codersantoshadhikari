@@ -90,6 +90,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersantoshadhikari&theme=algolia&hide_border=true" />
+</p>
+<br/>
+<p align="center">
+    <img  alt="Suman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=codersantoshadhikari&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
+</p>
+<p align="center">
+    <img alt="Suman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersantoshadhikari&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
+</p>
+
+<p align="center">
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codersantoshadhikari&theme=github_dark"/>
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codersantoshadhikari&theme=github_dark&utcOffset=8"/>
 </p>
