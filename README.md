@@ -101,7 +101,6 @@
 </p>
 
 
-<!-- <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersantoshadhikari&theme=github_dark"/> -->
 
 
 ## 🎓 Education & Certifications
