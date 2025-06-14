@@ -95,10 +95,7 @@
 <br/>
 <p align="center">
     <img  alt="Suman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=codersantoshadhikari&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
-</p>
-<p align="center">
-    <img alt="SANTOSH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersantoshadhikari&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
-</p>
+
 
 
 
