@@ -87,19 +87,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersantoshadhikari&theme=algolia&hide_border=true" />
-</p>
-<br/>
-<p align="center">
-    <img  alt="Suman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=codersantoshadhikari&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
-
-
-
-
-
 ## 🎓 Education & Certifications
 
 - **MBA in Ethical Hacking & Cybersecurity**
