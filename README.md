@@ -74,7 +74,7 @@
 
 **Features:**
 - Real-time multiplayer with WebSocket
-- 30,000+ downloads
+- 1m + downloads
 
 ### 💼 SME Business Suite Pro
 [![Web App](https://img.shields.io/badge/Web_App-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.smaittechnology.com.np)
