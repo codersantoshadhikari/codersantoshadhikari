@@ -7,7 +7,7 @@
 </div>
 
 ---
-[![Check out codersantoshadhikari's profile on stardev.io](https://stardev.io/developers/codersantoshadhikari/badge/languages/global.svg)](https://stardev.io/developers/codersantoshadhikari)
+https://stardev.io/developers/codersantoshadhikari/badge/languages/global.svg)](https://stardev.io/developers/codersantoshadhikari)
 ## 👨‍💻 Professional Profile
 
 **Innovative Software Architect** with **6+ years** of experience specializing in cross-platform mobile development and game engineering. As ** CEO of SMAIT Technology**, I've spearheaded the development of **60+ applications** with **15+ published** on major app stores, serving ** 1M+ users** worldwide.
