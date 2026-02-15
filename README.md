@@ -450,7 +450,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://wa.me/9779843769073">
+        <a href="https://wa.me/+351920793113">
           <img src="https://img.icons8.com/fluency/96/whatsapp.png" width="50"/>
           <br/>
           <b style="color: #00ff9d;">WHATSAPP</b>
