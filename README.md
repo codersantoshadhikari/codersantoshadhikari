@@ -73,10 +73,10 @@
 </div>
 
 <!-- Live Coding Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00ff9d&center=true&vCenter=true&width=600&lines=🚀+CURRENTLY+WORKING+ON:+LUDO+EMPIRE+2.0;🔥+LEARNING:+AI+INTEGRATION+IN+GAMES;💡+EXPLORING:+QUANTUM+COMPUTING" alt="Current Status" />
-</div>
+
+
+
+
 
 <!-- Stats Dashboard -->
 <div align="center">
