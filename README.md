@@ -2,7 +2,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
-
+<p align="center">
+  <a href="https://user-badge.committers.top/nepal_private/codersantoshadhikari">
+    <img src="https://user-badge.committers.top/nepal_private/codersantoshadhikari.svg?v=1" alt="committers.top badge" />
+  </a>
+</p>
 <!-- Animated Gradient Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
