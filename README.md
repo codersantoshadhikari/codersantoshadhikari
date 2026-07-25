@@ -6,7 +6,7 @@
 <!-- Animated Gradient Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=2500&pause=500&color=00FF9D&center=true&vCenter=true&width=1000&height=140&lines=%3E+SYSTEM_BOOT_SEQUENCE:INITIALIZED;%3E+USER_ID:SANTOSH_ADHIKARI;%3E+ACCESS_LEVEL:ROOT_PRIVILEGES;%3E+CURRENT_STATUS:ACTIVE_%F0%9F%9A%80;%3E+READY_FOR_COLLABORATION_%F0%9F%91%8B;%3E+CEO_@_SMAIT_TECHNOLOGY;%3E+GAME_DEVELOPMENT_ARCHITECT;%3E+CYBER_SECURITY_EXPERT" alt="Matrix Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=2500&pause=500&color=00FF9D&center=true&vCenter=true&width=1000&height=140&lines=%3E+SYSTEM_BOOT_SEQUENCE:INITIALIZED;%3E+USER_ID:SANTOSH_ADHIKARI;%3E+ACCESS_LEVEL:ROOT_PRIVILEGES;%3E+CURRENT_STATUS:ACTIVE_%F0%9F%9A%80;%3E+READY_FOR_COLLABORATION_%F0%9F%91%8B;%3E+CEO_@_SMAIT_TECHNOLOGY;%3E+GAME_DEVELOPMENT_ARCHITECT;%3E+CYBER_SECURITY_EXPERT;%3E+MOBILE_APP_MASTER" alt="Matrix Typing Animation" />
   </a>
 </div>
 
@@ -16,6 +16,7 @@
   <img src="https://wakatime.com/badge/user/4818b327-9c94-4397-85a6-c82a5027f03c.svg?style=for-the-badge" alt="WakaTime" />
   <img src="https://img.shields.io/github/followers/codersantoshadhikari?label=FOLLOWERS&style=for-the-badge&color=00ff9d" alt="Followers" />
   <img src="https://img.shields.io/badge/🚀_Status-Online-00ff9d?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/🎮_Game_Dev-Expert-00ff9d?style=for-the-badge" alt="Game Dev" />
 </p>
 
 <!-- Personal Website Banner -->
@@ -531,5 +532,7 @@
     <img src="https://img.shields.io/badge/⚡_Status-Online-00ff9d?style=flat" />
     <img src="https://img.shields.io/badge/🧠_AI_Powered-Enabled-00ff9d?style=flat" />
     <img src="https://img.shields.io/badge/🎮_Gaming_Architect-Expert-00ff9d?style=flat" />
+    <img src="https://img.shields.io/badge/🛡️_Security_Level-Maximum-00ff9d?style=flat" />
+    <img src="https://img.shields.io/badge/📱_Mobile_Master-Elite-00ff9d?style=flat" />
   </sub>
 </div>
