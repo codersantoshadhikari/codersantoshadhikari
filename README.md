@@ -2,15 +2,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
-<p align="center">
-  <a href="https://user-badge.committers.top/nepal_private/codersantoshadhikari">
-    <img src="https://user-badge.committers.top/nepal_private/codersantoshadhikari.svg?v=1" alt="committers.top badge" />
-  </a>
-</p>
+
 <!-- Animated Gradient Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=500&color=00FF9D&center=true&vCenter=true&width=1000&height=120&lines=%3E+SYSTEM_BOOT_SEQUENCE:INITIALIZED;%3E+USER_ID:SANTOSH_ADHIKARI;%3E+ACCESS_LEVEL:ROOT_PRIVILEGES;%3E+CURRENT_STATUS:ACTIVE_%F0%9F%9A%80;%3E+READY_FOR_COLLABORATION_%F0%9F%91%8B" alt="Matrix Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=2500&pause=500&color=00FF9D&center=true&vCenter=true&width=1000&height=140&lines=%3E+SYSTEM_BOOT_SEQUENCE:INITIALIZED;%3E+USER_ID:SANTOSH_ADHIKARI;%3E+ACCESS_LEVEL:ROOT_PRIVILEGES;%3E+CURRENT_STATUS:ACTIVE_%F0%9F%9A%80;%3E+READY_FOR_COLLABORATION_%F0%9F%91%8B;%3E+CEO_@_SMAIT_TECHNOLOGY;%3E+GAME_DEVELOPMENT_ARCHITECT;%3E+CYBER_SECURITY_EXPERT" alt="Matrix Typing Animation" />
   </a>
 </div>
 
@@ -19,6 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=codersantoshadhikari&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views" />
   <img src="https://wakatime.com/badge/user/4818b327-9c94-4397-85a6-c82a5027f03c.svg?style=for-the-badge" alt="WakaTime" />
   <img src="https://img.shields.io/github/followers/codersantoshadhikari?label=FOLLOWERS&style=for-the-badge&color=00ff9d" alt="Followers" />
+  <img src="https://img.shields.io/badge/🚀_Status-Online-00ff9d?style=for-the-badge" alt="Status" />
 </p>
 
 <!-- Personal Website Banner -->
@@ -35,19 +32,19 @@
 <!-- Main Header with Neon Effect -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <span style="color: #00ff9d; text-shadow: 0 0 10px #00ff9d;">SANTOSH ADHIKARI</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d, 0 0 40px #00ff9d, 0 0 80px #00ff9d;">SANTOSH ADHIKARI</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h3 align="center">
-  <code style="background: #0D1117; padding: 10px; border-radius: 10px; border: 2px solid #00ff9d; color: #00ff9d;">
+  <code style="background: #0D1117; padding: 15px; border-radius: 15px; border: 2px solid #00ff9d; color: #00ff9d; font-size: 20px; box-shadow: 0 0 30px #00ff9d88;">
     [ SENIOR SOFTWARE ARCHITECT | CEO @ SMAIT TECHNOLOGY | CYBER SECURITY EXPERT ]
   </code>
 </h3>
 
 <!-- Animated Code Window -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius: 20px; border: 3px solid #00ff9d; box-shadow: 0 0 30px #00ff9d;" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius: 20px; border: 3px solid #00ff9d; box-shadow: 0 0 50px #00ff9d, 0 0 100px #00ff9d44;" alt="Coding Animation"/>
 </div>
 
 <!-- Animated Separator -->
@@ -55,20 +52,20 @@
 
 <!-- Professional Bio with Glassmorphism -->
 <div align="center">
-  <table style="background: rgba(0, 255, 157, 0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 2px solid #00ff9d; width: 90%;">
+  <table style="background: rgba(0, 255, 157, 0.08); backdrop-filter: blur(20px); border-radius: 30px; border: 2px solid #00ff9d; width: 92%; box-shadow: 0 0 50px #00ff9d22;">
     <tr>
       <td align="center">
         <br/>
         <img src="https://img.icons8.com/fluency/96/000ormation.png" width="50"/>
-        <h2 style="color: #00ff9d;">⚡ SYSTEM SPECIFICATIONS ⚡</h2>
+        <h2 style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">⚡ SYSTEM SPECIFICATIONS ⚡</h2>
         <br/>
-        <p style="font-size: 18px;">
-          <b>Experience:</b> <span style="color: #00ff9d;">6+ Years</span> in Full-Cycle Development<br/><br/>
-          <b>Projects Delivered:</b> <span style="color: #00ff9d;">60+ Applications</span><br/><br/>
-          <b>Published Apps:</b> <span style="color: #00ff9d;">15+ on App Stores</span><br/><br/>
-          <b>User Base:</b> <span style="color: #00ff9d;">1M+ Worldwide</span><br/><br/>
-          <b>Company:</b> <span style="color: #00ff9d;">CEO @ SMAIT Technology</span><br/><br/>
-          <b>Specialization:</b> <span style="color: #00ff9d;">Mobile Architecture | Game Engineering | Security</span>
+        <p style="font-size: 20px; line-height: 2.2;">
+          <b>🚀 Experience:</b> <span style="color: #00ff9d;">6+ Years</span> in Full-Cycle Development<br/><br/>
+          <b>📦 Projects Delivered:</b> <span style="color: #00ff9d;">60+ Applications</span><br/><br/>
+          <b>📱 Published Apps:</b> <span style="color: #00ff9d;">15+ on App Stores</span><br/><br/>
+          <b>👥 User Base:</b> <span style="color: #00ff9d;">1M+ Worldwide</span><br/><br/>
+          <b>🏢 Company:</b> <span style="color: #00ff9d;">CEO @ SMAIT Technology</span><br/><br/>
+          <b>🎯 Specialization:</b> <span style="color: #00ff9d;">Mobile Architecture | Game Engineering | Security</span>
         </p>
         <br/>
       </td>
@@ -76,22 +73,16 @@
   </table>
 </div>
 
-<!-- Live Coding Animation -->
-
-
-
-
-
 <!-- Stats Dashboard -->
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-    <span style="color: #00ff9d;">SYSTEM PERFORMANCE METRICS</span>
+    <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">SYSTEM PERFORMANCE METRICS</span>
   </h2>
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=codersantoshadhikari&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=FFFFFF&border_radius=15"
+      srcset="https://github-readme-stats.vercel.app/api?username=codersantoshadhikari&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=FFFFFF&border_radius=15&ring_color=00ff9d"
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=codersantoshadhikari&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=FFFFFF&border_radius=15" width="48%" />
@@ -108,7 +99,7 @@
 
 <!-- Language Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersantoshadhikari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=FFFFFF&border_radius=15" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersantoshadhikari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=FFFFFF&border_radius=15&langs_count=8" width="42%" />
 </div>
 
 <!-- 3D Trophy Case -->
@@ -121,35 +112,35 @@
 
 <!-- Expertise Showcase with 3D Flip Cards -->
 <h2 align="center">
-  <span style="color: #00ff9d;">⚡ CORE COMPETENCIES ⚡</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">⚡ CORE COMPETENCIES ⚡</span>
 </h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 15px; padding: 20px; background: rgba(0, 255, 157, 0.05);">
-        <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="120" style="border-radius: 10px;"/>
+      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 30px #00ff9d22;">
+        <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="120" style="border-radius: 15px;"/>
         <br/>
         <h3 style="color: #00ff9d;">📱 MOBILE</h3>
         <p>Flutter • React Native<br/>Kotlin • Swift</p>
         <sub style="color: #00ff9d;">▰▰▰▰▰▰▰▰▰▰ 95%</sub>
       </td>
-      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 15px; padding: 20px; background: rgba(0, 255, 157, 0.05);">
-        <img src="https://media.giphy.com/media/l0MYEqE0MWEdgOWCk/giphy.gif" width="120" style="border-radius: 10px;"/>
+      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 30px #00ff9d22;">
+        <img src="https://media.giphy.com/media/l0MYEqE0MWEdgOWCk/giphy.gif" width="120" style="border-radius: 15px;"/>
         <br/>
         <h3 style="color: #00ff9d;">🎮 GAMES</h3>
         <p>Unity 3D • Ludo Expert<br/>Multiplayer Systems</p>
         <sub style="color: #00ff9d;">▰▰▰▰▰▰▰▰▰▰ 98%</sub>
       </td>
-      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 15px; padding: 20px; background: rgba(0, 255, 157, 0.05);">
-        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="120" style="border-radius: 10px;"/>
+      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 30px #00ff9d22;">
+        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="120" style="border-radius: 15px;"/>
         <br/>
         <h3 style="color: #00ff9d;">🛡️ SECURITY</h3>
         <p>Ethical Hacking • CEH<br/>Penetration Testing</p>
         <sub style="color: #00ff9d;">▰▰▰▰▰▰▰▰▰▰ 92%</sub>
       </td>
-      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 15px; padding: 20px; background: rgba(0, 255, 157, 0.05);">
-        <img src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif" width="120" style="border-radius: 10px;"/>
+      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 30px #00ff9d22;">
+        <img src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif" width="120" style="border-radius: 15px;"/>
         <br/>
         <h3 style="color: #00ff9d;">☁️ CLOUD</h3>
         <p>AWS • Firebase • Node.js<br/>MongoDB</p>
@@ -161,7 +152,7 @@
 
 <!-- Tech Stack with Animated Icons -->
 <h2 align="center">
-  <span style="color: #00ff9d;">🔧 TECHNOLOGY STACK 🔧</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">🔧 TECHNOLOGY STACK 🔧</span>
 </h2>
 
 <div align="center">
@@ -194,7 +185,7 @@
 <!-- Detailed Tech Tree -->
 <details>
   <summary align="center">
-    <h3 style="color: #00ff9d; display: inline-block;">🌳 VIEW FULL TECHNOLOGY TREE 🌳</h3>
+    <h3 style="color: #00ff9d; display: inline-block; text-shadow: 0 0 20px #00ff9d;">🌳 VIEW FULL TECHNOLOGY TREE 🌳</h3>
   </summary>
   
   <div align="center">
@@ -230,16 +221,16 @@
 
 <!-- Featured Projects -->
 <h2 align="center">
-  <span style="color: #00ff9d;">🏆 FLAGSHIP PROJECTS 🏆</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">🏆 FLAGSHIP PROJECTS 🏆</span>
 </h2>
 
 <div align="center">
   <table>
     <tr>
-      <td width="400" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 20px; background: rgba(0, 255, 157, 0.05);">
+      <td width="400" style="border: 2px solid #00ff9d; border-radius: 25px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 40px #00ff9d22;">
         <h3 align="center" style="color: #00ff9d;">🎮 LUDO EMPIRE</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" style="border-radius: 10px;"/>
+          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" style="border-radius: 15px;"/>
           <p>
             <b>Real-time Multiplayer Ludo Game</b><br/>
             <span style="color: #00ff9d;">1M+ Downloads • 4.5★ Rating</span>
@@ -256,10 +247,10 @@
           </p>
         </div>
       </td>
-      <td width="400" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 20px; background: rgba(0, 255, 157, 0.05);">
+      <td width="400" style="border: 2px solid #00ff9d; border-radius: 25px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 40px #00ff9d22;">
         <h3 align="center" style="color: #00ff9d;">💼 SME BUSINESS SUITE</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif" width="200" style="border-radius: 10px;"/>
+          <img src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif" width="200" style="border-radius: 15px;"/>
           <p>
             <b>Complete Business Management Platform</b><br/>
             <span style="color: #00ff9d;">10k+ Businesses • 99.9% Uptime</span>
@@ -278,10 +269,10 @@
       </td>
     </tr>
     <tr>
-      <td width="400" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 20px; background: rgba(0, 255, 157, 0.05);">
+      <td width="400" style="border: 2px solid #00ff9d; border-radius: 25px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 40px #00ff9d22;">
         <h3 align="center" style="color: #00ff9d;">🔐 SECURE AUTH PRO</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" style="border-radius: 10px;"/>
+          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" style="border-radius: 15px;"/>
           <p>
             <b>Enterprise Authentication System</b><br/>
             <span style="color: #00ff9d;">Banking Grade Security • 2FA • Biometric</span>
@@ -298,10 +289,10 @@
           </p>
         </div>
       </td>
-      <td width="400" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 20px; background: rgba(0, 255, 157, 0.05);">
+      <td width="400" style="border: 2px solid #00ff9d; border-radius: 25px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 40px #00ff9d22;">
         <h3 align="center" style="color: #00ff9d;">🌐 SMAIT WEBSITE</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="200" style="border-radius: 10px;"/>
+          <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="200" style="border-radius: 15px;"/>
           <p>
             <b>Official Company Portfolio</b><br/>
             <span style="color: #00ff9d;">Modern Design • Fast Performance</span>
@@ -324,16 +315,16 @@
 
 <!-- Live Activity Graph -->
 <h2 align="center">
-  <span style="color: #00ff9d;">📊 LIVE ACTIVITY FEED 📊</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">📊 LIVE ACTIVITY FEED 📊</span>
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codersantoshadhikari&custom_title=SANTOSH'S%20CONTRIBUTION%20GRAPH&bg_color=0D1117&color=00ff9d&line=00ff9d&point=FFFFFF&area=true&area_color=00ff9d&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codersantoshadhikari&custom_title=SANTOSH'S%20CONTRIBUTION%20GRAPH&bg_color=0D1117&color=00ff9d&line=00ff9d&point=FFFFFF&area=true&area_color=00ff9d&hide_border=true&radius=15" width="95%" />
 </div>
 
 <!-- Weekly Development Breakdown -->
 <h2 align="center">
-  <span style="color: #00ff9d;">⏱️ WEEKLY CODING METRICS ⏱️</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">⏱️ WEEKLY CODING METRICS ⏱️</span>
 </h2>
 
 <div align="center">
@@ -342,37 +333,37 @@
 
 <!-- Education & Certifications -->
 <h2 align="center">
-  <span style="color: #00ff9d;">🎓 EDUCATION & CERTIFICATIONS 🎓</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">🎓 EDUCATION & CERTIFICATIONS 🎓</span>
 </h2>
 
 <div align="center">
-  <table style="border: 2px solid #00ff9d;">
+  <table style="border: 2px solid #00ff9d; border-radius: 20px; box-shadow: 0 0 40px #00ff9d22;">
     <tr>
-      <td align="center" width="250">
+      <td align="center" width="250" style="padding: 20px;">
         <img src="https://img.icons8.com/fluency/96/mba.png" width="60"/>
         <br/>
-        <b>MBA in Ethical Hacking</b>
+        <b style="color: #00ff9d;">MBA in Ethical Hacking</b>
         <br/>
         <sub>Cybersecurity Specialization</sub>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="250" style="padding: 20px;">
         <img src="https://img.icons8.com/fluency/96/google-logo.png" width="60"/>
         <br/>
-        <b>Flutter Certified</b>
+        <b style="color: #00ff9d;">Flutter Certified</b>
         <br/>
         <sub>Google Developers</sub>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="250" style="padding: 20px;">
         <img src="https://img.icons8.com/fluency/96/unity.png" width="60"/>
         <br/>
-        <b>Unity Certified</b>
+        <b style="color: #00ff9d;">Unity Certified</b>
         <br/>
         <sub>Professional Developer</sub>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="250" style="padding: 20px;">
         <img src="https://img.icons8.com/fluency/96/security-checked.png" width="60"/>
         <br/>
-        <b>CEH Certification</b>
+        <b style="color: #00ff9d;">CEH Certification</b>
         <br/>
         <sub>EC-Council</sub>
       </td>
@@ -382,13 +373,13 @@
 
 <!-- Connect Section with Holographic Cards -->
 <h2 align="center">
-  <span style="color: #00ff9d;">🌐 CONNECT WITH ME 🌐</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">🌐 CONNECT WITH ME 🌐</span>
 </h2>
 
 <div align="center">
-  <table>
+  <table style="border: 2px solid #00ff9d; border-radius: 20px; box-shadow: 0 0 40px #00ff9d22;">
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 15px;">
         <a href="https://santoshadhikari.com.np">
           <img src="https://img.icons8.com/fluency/96/domain.png" width="50"/>
           <br/>
@@ -397,7 +388,7 @@
           <sub>santoshadhikari.com.np</sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 15px;">
         <a href="https://linkedin.com/in/codersantoshadhikari">
           <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50"/>
           <br/>
@@ -406,7 +397,7 @@
           <sub>/in/codersantosh</sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 15px;">
         <a href="https://github.com/codersantoshadhikari">
           <img src="https://img.icons8.com/fluency/96/github.png" width="50"/>
           <br/>
@@ -415,7 +406,7 @@
           <sub>@codersantosh</sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 15px;">
         <a href="https://twitter.com/santosh215">
           <img src="https://img.icons8.com/fluency/96/twitter.png" width="50"/>
           <br/>
@@ -426,7 +417,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 15px;">
         <a href="https://youtube.com/@smaittechnology">
           <img src="https://img.icons8.com/fluency/96/youtube.png" width="50"/>
           <br/>
@@ -435,7 +426,7 @@
           <sub>SMAIT Tech</sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 15px;">
         <a href="https://instagram.com/santosh_adhikari_official">
           <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50"/>
           <br/>
@@ -444,7 +435,7 @@
           <sub>@santosh_adhikari</sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 15px;">
         <a href="mailto:santosh.ad215@gmail.com">
           <img src="https://img.icons8.com/fluency/96/gmail.png" width="50"/>
           <br/>
@@ -453,8 +444,8 @@
           <sub>santosh.ad215</sub>
         </a>
       </td>
-      <td align="center">
-        <a href="https://wa.me/+351920793113">
+      <td align="center" style="padding: 15px;">
+        <a href="https://wa.me/+9779843769073">
           <img src="https://img.icons8.com/fluency/96/whatsapp.png" width="50"/>
           <br/>
           <b style="color: #00ff9d;">WHATSAPP</b>
@@ -468,7 +459,7 @@
 
 <!-- Support Section -->
 <h2 align="center">
-  <span style="color: #00ff9d;">💖 SUPPORT MY WORK 💖</span>
+  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">💖 SUPPORT MY WORK 💖</span>
 </h2>
 
 <div align="center">
@@ -538,5 +529,7 @@
     <img src="https://img.shields.io/badge/🔄_Auto_Refresh-24/7-00ff9d?style=flat" />
     <img src="https://img.shields.io/badge/📅_Last_Update-2024-00ff9d?style=flat" />
     <img src="https://img.shields.io/badge/⚡_Status-Online-00ff9d?style=flat" />
+    <img src="https://img.shields.io/badge/🧠_AI_Powered-Enabled-00ff9d?style=flat" />
+    <img src="https://img.shields.io/badge/🎮_Gaming_Architect-Expert-00ff9d?style=flat" />
   </sub>
 </div>
