@@ -169,8 +169,6 @@ open_to:     collaboration · freelance · speaking
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codersantoshadhikari&bg_color=0D1117&color=E6EDF3&line=00FF9D&point=E6EDF3&area=true&area_color=00FF9D&hide_border=true&radius=12" width="100%" alt="Activity graph"/>
 
-<a href="https://wakatime.com/@4818b327-9c94-4397-85a6-c82a5027f03c"><img src="https://wakatime.com/badge/user/4818b327-9c94-4397-85a6-c82a5027f03c.svg?style=for-the-badge" alt="WakaTime"/></a>
-
 </div>
 
 <br/>
