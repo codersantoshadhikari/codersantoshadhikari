@@ -4,12 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003d2b,100:00FF9D&height=220&section=header&text=Santosh%20Adhikari&fontSize=56&fontColor=00FF9D&fontAlignY=38&desc=Software%20Architect%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20CEO%20%40%20SMAIT%20Technology&descSize=18&descAlignY=60&descColor=E6EDF3&animation=fadeIn" width="100%" alt="Santosh Adhikari"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=Building+mobile+apps+with+Flutter+%F0%9F%93%B1;Engineering+multiplayer+card+%26+board+games+%F0%9F%8E%AE;Securing+systems+as+an+ethical+hacker+%F0%9F%9B%A1%EF%B8%8F;Shipping+products+at+SMAIT+Technology+%F0%9F%9A%80" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=Building+mobile+apps+with+Flutter+%F0%9F%93%B1;Engineering+multiplayer+card+%26+board+games+%F0%9F%8E%AE;Securing+systems+as+an+ethical+hacker+%F0%9F%9B%A1%EF%B8%8F;Shipping+products+at+SMAIT+Technology+%F0%9F%9A%80;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5+%E2%86%92+Now+in+Portugal+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing intro"/>
 </a>
 
 <br/>
 
-<a href="https://santoshadhikari.com.np"><img src="https://img.shields.io/badge/Portfolio-santoshadhikari.com.np-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117"/></a>
+<img src="https://img.shields.io/badge/📍_Based_in-Portugal,_Europe-00FF9D?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🏔️_From-Pokhara_·_Kathmandu,_Nepal-00FF9D?style=for-the-badge&labelColor=0D1117"/>
+
+<br/>
+
+<a href="https://santoshadhikari.com"><img src="https://img.shields.io/badge/Portfolio-santoshadhikari.com-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117"/></a>
 <a href="https://linkedin.com/in/codersantoshadhikari"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF9D?style=for-the-badge&logo=linkedin&logoColor=00FF9D&labelColor=0D1117"/></a>
 <a href="mailto:santosh.ad215@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-00FF9D?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=0D1117"/></a>
 <img src="https://komarev.com/ghpvc/?username=codersantoshadhikari&label=Profile%20views&color=00FF9D&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
@@ -24,6 +29,10 @@
 ```yaml
 name:        Santosh Adhikari
 role:        Senior Software Architect · CEO @ SMAIT Technology
+location:    Portugal, Europe 🇵🇹  (UTC+0 / +1)
+hometown:    Pokhara-14, Kaski · Kathmandu, Nepal 🇳🇵
+website:     santoshadhikari.com
+email:       santosh.ad215@gmail.com
 experience:  6+ years, full-cycle development
 shipped:     60+ applications · 15+ published on app stores
 reach:       1M+ users worldwide
@@ -185,7 +194,7 @@ open_to:     collaboration · freelance · speaking
 
 <div align="center">
 
-<a href="https://santoshadhikari.com.np"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9D"/></a>
+<a href="https://santoshadhikari.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9D"/></a>
 <a href="https://linkedin.com/in/codersantoshadhikari"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D"/></a>
 <a href="https://twitter.com/santosh215"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF9D"/></a>
 <a href="https://youtube.com/@smaittechnology"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF9D"/></a>
