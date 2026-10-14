@@ -1,538 +1,222 @@
-<!-- Dynamic Header with Matrix Rain Effect -->
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
 
-<!-- Animated Gradient Typing Effect -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=2500&pause=500&color=00FF9D&center=true&vCenter=true&width=1000&height=140&lines=%3E+SYSTEM_BOOT_SEQUENCE:INITIALIZED;%3E+USER_ID:SANTOSH_ADHIKARI;%3E+ACCESS_LEVEL:ROOT_PRIVILEGES;%3E+CURRENT_STATUS:ACTIVE_%F0%9F%9A%80;%3E+READY_FOR_COLLABORATION_%F0%9F%91%8B;%3E+CEO_@_SMAIT_TECHNOLOGY;%3E+GAME_DEVELOPMENT_ARCHITECT;%3E+CYBER_SECURITY_EXPERT;%3E+MOBILE_APP_MASTER" alt="Matrix Typing Animation" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003d2b,100:00FF9D&height=220&section=header&text=Santosh%20Adhikari&fontSize=56&fontColor=00FF9D&fontAlignY=38&desc=Software%20Architect%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20CEO%20%40%20SMAIT%20Technology&descSize=18&descAlignY=60&descColor=E6EDF3&animation=fadeIn" width="100%" alt="Santosh Adhikari"/>
 
-<!-- Animated 3D Stats Cards -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codersantoshadhikari&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/4818b327-9c94-4397-85a6-c82a5027f03c.svg?style=for-the-badge" alt="WakaTime" />
-  <img src="https://img.shields.io/github/followers/codersantoshadhikari?label=FOLLOWERS&style=for-the-badge&color=00ff9d" alt="Followers" />
-  <img src="https://img.shields.io/badge/🚀_Status-Online-00ff9d?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/🎮_Game_Dev-Expert-00ff9d?style=for-the-badge" alt="Game Dev" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=Building+mobile+apps+with+Flutter+%F0%9F%93%B1;Engineering+multiplayer+card+%26+board+games+%F0%9F%8E%AE;Securing+systems+as+an+ethical+hacker+%F0%9F%9B%A1%EF%B8%8F;Shipping+products+at+SMAIT+Technology+%F0%9F%9A%80" alt="Typing intro"/>
+</a>
 
-<!-- Personal Website Banner -->
-<div align="center">
-  <a href="https://santoshadhikari.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_OFFICIAL_WEBSITE-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0D1117&fontSize=30" width="600" alt="Website Banner"/>
-  </a>
-  <br/>
-  <sub><b>santoshadhikari.com.np</b> | Portfolio & Tech Blog</sub>
+<br/>
+
+<a href="https://santoshadhikari.com.np"><img src="https://img.shields.io/badge/Portfolio-santoshadhikari.com.np-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/codersantoshadhikari"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF9D?style=for-the-badge&logo=linkedin&logoColor=00FF9D&labelColor=0D1117"/></a>
+<a href="mailto:santosh.ad215@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-00FF9D?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=0D1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=codersantoshadhikari&label=Profile%20views&color=00FF9D&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
+
 </div>
 
 <br/>
 
-<!-- Main Header with Neon Effect -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d, 0 0 40px #00ff9d, 0 0 80px #00ff9d;">SANTOSH ADHIKARI</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+## `> whoami`
 
-<h3 align="center">
-  <code style="background: #0D1117; padding: 15px; border-radius: 15px; border: 2px solid #00ff9d; color: #00ff9d; font-size: 20px; box-shadow: 0 0 30px #00ff9d88;">
-    [ SENIOR SOFTWARE ARCHITECT | CEO @ SMAIT TECHNOLOGY | CYBER SECURITY EXPERT ]
-  </code>
-</h3>
+```yaml
+name:        Santosh Adhikari
+role:        Senior Software Architect · CEO @ SMAIT Technology
+experience:  6+ years, full-cycle development
+shipped:     60+ applications · 15+ published on app stores
+reach:       1M+ users worldwide
+focus:       [ Mobile Architecture, Game Engineering, Cyber Security ]
+building:    [ Callbreak & Rummy card games (Flutter/Flame), dart-tutorial.dev ]
+open_to:     collaboration · freelance · speaking
+```
 
-<!-- Animated Code Window -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" style="border-radius: 20px; border: 3px solid #00ff9d; box-shadow: 0 0 50px #00ff9d, 0 0 100px #00ff9d44;" alt="Coding Animation"/>
-</div>
+<br/>
 
-<!-- Animated Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+<!-- ═══════════════════ EXPERTISE ═══════════════════ -->
+## `> skills --list`
 
-<!-- Professional Bio with Glassmorphism -->
-<div align="center">
-  <table style="background: rgba(0, 255, 157, 0.08); backdrop-filter: blur(20px); border-radius: 30px; border: 2px solid #00ff9d; width: 92%; box-shadow: 0 0 50px #00ff9d22;">
-    <tr>
-      <td align="center">
-        <br/>
-        <img src="https://img.icons8.com/fluency/96/000ormation.png" width="50"/>
-        <h2 style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">⚡ SYSTEM SPECIFICATIONS ⚡</h2>
-        <br/>
-        <p style="font-size: 20px; line-height: 2.2;">
-          <b>🚀 Experience:</b> <span style="color: #00ff9d;">6+ Years</span> in Full-Cycle Development<br/><br/>
-          <b>📦 Projects Delivered:</b> <span style="color: #00ff9d;">60+ Applications</span><br/><br/>
-          <b>📱 Published Apps:</b> <span style="color: #00ff9d;">15+ on App Stores</span><br/><br/>
-          <b>👥 User Base:</b> <span style="color: #00ff9d;">1M+ Worldwide</span><br/><br/>
-          <b>🏢 Company:</b> <span style="color: #00ff9d;">CEO @ SMAIT Technology</span><br/><br/>
-          <b>🎯 Specialization:</b> <span style="color: #00ff9d;">Mobile Architecture | Game Engineering | Security</span>
-        </p>
-        <br/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>📱 Mobile</h3>
+      Flutter · React Native<br/>Kotlin · Swift
+      <br/><br/>
+      <code>██████████ 95%</code>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>🎮 Games</h3>
+      Unity · Flame<br/>Multiplayer systems
+      <br/><br/>
+      <code>██████████ 98%</code>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>🛡️ Security</h3>
+      Ethical hacking · CEH<br/>Penetration testing
+      <br/><br/>
+      <code>█████████░ 92%</code>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>☁️ Cloud</h3>
+      AWS · Firebase<br/>Node.js · MongoDB
+      <br/><br/>
+      <code>█████████░ 90%</code>
+    </td>
+  </tr>
+</table>
 
-<!-- Stats Dashboard -->
-<div align="center">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-    <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">SYSTEM PERFORMANCE METRICS</span>
-  </h2>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=codersantoshadhikari&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=FFFFFF&border_radius=15&ring_color=00ff9d"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=codersantoshadhikari&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=FFFFFF&border_radius=15" width="48%" />
-  </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=codersantoshadhikari&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ff9d&sideLabels=FFFFFF&dates=9F9F9F&border_radius=15"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersantoshadhikari&theme=default&hide_border=true&background=0D1117&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ff9d&sideLabels=FFFFFF&dates=9F9F9F&border_radius=15" width="48%" />
-  </picture>
-</div>
+<br/>
 
-<!-- Language Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersantoshadhikari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=FFFFFF&border_radius=15&langs_count=8" width="42%" />
-</div>
-
-<!-- 3D Trophy Case -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codersantoshadhikari&theme=matrix&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
-</div>
-
-<!-- Animated Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
-
-<!-- Expertise Showcase with 3D Flip Cards -->
-<h2 align="center">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">⚡ CORE COMPETENCIES ⚡</span>
-</h2>
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+## `> stack`
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 30px #00ff9d22;">
-        <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="120" style="border-radius: 15px;"/>
-        <br/>
-        <h3 style="color: #00ff9d;">📱 MOBILE</h3>
-        <p>Flutter • React Native<br/>Kotlin • Swift</p>
-        <sub style="color: #00ff9d;">▰▰▰▰▰▰▰▰▰▰ 95%</sub>
-      </td>
-      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 30px #00ff9d22;">
-        <img src="https://media.giphy.com/media/l0MYEqE0MWEdgOWCk/giphy.gif" width="120" style="border-radius: 15px;"/>
-        <br/>
-        <h3 style="color: #00ff9d;">🎮 GAMES</h3>
-        <p>Unity 3D • Ludo Expert<br/>Multiplayer Systems</p>
-        <sub style="color: #00ff9d;">▰▰▰▰▰▰▰▰▰▰ 98%</sub>
-      </td>
-      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 30px #00ff9d22;">
-        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="120" style="border-radius: 15px;"/>
-        <br/>
-        <h3 style="color: #00ff9d;">🛡️ SECURITY</h3>
-        <p>Ethical Hacking • CEH<br/>Penetration Testing</p>
-        <sub style="color: #00ff9d;">▰▰▰▰▰▰▰▰▰▰ 92%</sub>
-      </td>
-      <td align="center" width="200" style="border: 2px solid #00ff9d; border-radius: 20px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 30px #00ff9d22;">
-        <img src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif" width="120" style="border-radius: 15px;"/>
-        <br/>
-        <h3 style="color: #00ff9d;">☁️ CLOUD</h3>
-        <p>AWS • Firebase • Node.js<br/>MongoDB</p>
-        <sub style="color: #00ff9d;">▰▰▰▰▰▰▰▰▰▰ 90%</sub>
-      </td>
-    </tr>
-  </table>
+
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=dart,kotlin,swift,ts,js,python,java,cs,php&theme=dark" /> |
+| **Mobile & Web** | <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,androidstudio,figma&theme=dark" /> |
+| **Game Dev** | <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" /> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,postgres,aws&theme=dark" /> |
+| **Tooling & Security** | <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,linux&theme=dark" /> |
+
 </div>
 
-<!-- Tech Stack with Animated Icons -->
-<h2 align="center">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">🔧 TECHNOLOGY STACK 🔧</span>
-</h2>
-
-<div align="center">
-  <h3 style="color: #00ff9d;">💻 PROGRAMMING LANGUAGES</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=dart,kotlin,swift,js,ts,python,java,cs,php&theme=dark&perline=9" />
-  </p>
-
-  <h3 style="color: #00ff9d;">📱 MOBILE & WEB</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,swift,figma&theme=dark&perline=5" />
-  </p>
-
-  <h3 style="color: #00ff9d;">🎮 GAME DEVELOPMENT</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=unity,unreal,cs&theme=dark&perline=3" />
-  </p>
-
-  <h3 style="color: #00ff9d;">⚙️ BACKEND & DATABASE</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,postgres,aws&theme=dark&perline=6" />
-  </p>
-
-  <h3 style="color: #00ff9d;">🔧 DEV TOOLS</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,figma,postman&theme=dark&perline=7" />
-  </p>
-</div>
-
-<!-- Detailed Tech Tree -->
 <details>
-  <summary align="center">
-    <h3 style="color: #00ff9d; display: inline-block; text-shadow: 0 0 20px #00ff9d;">🌳 VIEW FULL TECHNOLOGY TREE 🌳</h3>
-  </summary>
-  
-  <div align="center">
-    <table>
-      <tr>
-        <th style="color: #00ff9d;">Category</th>
-        <th style="color: #00ff9d;">Technologies</th>
-        <th style="color: #00ff9d;">Proficiency</th>
-      </tr>
-      <tr>
-        <td><b>Mobile Development</b></td>
-        <td>Flutter, React Native, Kotlin, Swift, Java</td>
-        <td>⚡⚡⚡⚡⚡⚡⚡⚡⚡ 95%</td>
-      </tr>
-      <tr>
-        <td><b>Game Development</b></td>
-        <td>Unity 3D, Unreal Engine, C#, Ludo Logic</td>
-        <td>⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ 98%</td>
-      </tr>
-      <tr>
-        <td><b>Cyber Security</b></td>
-        <td>Kali Linux, Metasploit, Wireshark, Burp Suite</td>
-        <td>⚡⚡⚡⚡⚡⚡⚡⚡⚡ 92%</td>
-      </tr>
-      <tr>
-        <td><b>Cloud & Backend</b></td>
-        <td>AWS, Firebase, Node.js, MongoDB, MySQL</td>
-        <td>⚡⚡⚡⚡⚡⚡⚡⚡⚡ 90%</td>
-      </tr>
-    </table>
-  </div>
+<summary><b>🔍 Security toolkit</b></summary>
+<br/>
+
+`Kali Linux` · `Metasploit` · `Burp Suite` · `Wireshark` · `Nmap` · `OWASP Top 10`
+
 </details>
 
-<!-- Featured Projects -->
-<h2 align="center">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">🏆 FLAGSHIP PROJECTS 🏆</span>
-</h2>
+<br/>
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+## `> ls ./projects --featured`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎲 Ludo Empire</h3>
+      Real-time multiplayer Ludo game.
+      <br/><br/>
+      <b>1M+ downloads · ⭐ 4.5</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <br/><br/>
+      <a href="https://play.google.com/store/apps/dev?id=8310692885659472367"><img src="https://img.shields.io/badge/Google_Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=00FF9D"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 SME Business Suite</h3>
+      End-to-end business management platform.
+      <br/><br/>
+      <b>10k+ businesses · 99.9% uptime</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <br/><br/>
+      <a href="https://www.smaittechnology.com.np"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9D"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Secure Auth Pro</h3>
+      Enterprise authentication: 2FA, biometrics, banking-grade security.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/codersantoshadhikari/secure-auth-pro"><img src="https://img.shields.io/badge/View_Code-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📘 dart-tutorial.dev</h3>
+      Free Dart & Flutter learning site, from basics to production patterns.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <br/><br/>
+      <a href="https://dart-tutorial.dev"><img src="https://img.shields.io/badge/Start_Learning-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00FF9D"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+## `> git log --stats`
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="400" style="border: 2px solid #00ff9d; border-radius: 25px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 40px #00ff9d22;">
-        <h3 align="center" style="color: #00ff9d;">🎮 LUDO EMPIRE</h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" style="border-radius: 15px;"/>
-          <p>
-            <b>Real-time Multiplayer Ludo Game</b><br/>
-            <span style="color: #00ff9d;">1M+ Downloads • 4.5★ Rating</span>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter"/>
-            <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase"/>
-          </p>
-          <p>
-            <a href="https://play.google.com/store/apps/dev?id=8310692885659472367">
-              <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="400" style="border: 2px solid #00ff9d; border-radius: 25px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 40px #00ff9d22;">
-        <h3 align="center" style="color: #00ff9d;">💼 SME BUSINESS SUITE</h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif" width="200" style="border-radius: 15px;"/>
-          <p>
-            <b>Complete Business Management Platform</b><br/>
-            <span style="color: #00ff9d;">10k+ Businesses • 99.9% Uptime</span>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter"/>
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws"/>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
-          </p>
-          <p>
-            <a href="https://www.smaittechnology.com.np">
-              <img src="https://img.shields.io/badge/LIVE_DEMO-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="400" style="border: 2px solid #00ff9d; border-radius: 25px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 40px #00ff9d22;">
-        <h3 align="center" style="color: #00ff9d;">🔐 SECURE AUTH PRO</h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" style="border-radius: 15px;"/>
-          <p>
-            <b>Enterprise Authentication System</b><br/>
-            <span style="color: #00ff9d;">Banking Grade Security • 2FA • Biometric</span>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase"/>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
-          </p>
-          <p>
-            <a href="https://github.com/codersantoshadhikari/secure-auth-pro">
-              <img src="https://img.shields.io/badge/VIEW_CODE-00ff9d?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="400" style="border: 2px solid #00ff9d; border-radius: 25px; padding: 25px; background: rgba(0, 255, 157, 0.05); box-shadow: 0 0 40px #00ff9d22;">
-        <h3 align="center" style="color: #00ff9d;">🌐 SMAIT WEBSITE</h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="200" style="border-radius: 15px;"/>
-          <p>
-            <b>Official Company Portfolio</b><br/>
-            <span style="color: #00ff9d;">Modern Design • Fast Performance</span>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
-          </p>
-          <p>
-            <a href="https://www.smaittechnology.com.np">
-              <img src="https://img.shields.io/badge/VISIT_SITE-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codersantoshadhikari&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=E6EDF3&ring_color=00FF9D&border_radius=12" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersantoshadhikari&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=E6EDF3&border_radius=12" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=codersantoshadhikari&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00FF9D&sideLabels=E6EDF3&dates=8B949E&border_radius=12" width="70%" alt="Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codersantoshadhikari&bg_color=0D1117&color=E6EDF3&line=00FF9D&point=E6EDF3&area=true&area_color=00FF9D&hide_border=true&radius=12" width="100%" alt="Activity graph"/>
+
+<a href="https://wakatime.com/@4818b327-9c94-4397-85a6-c82a5027f03c"><img src="https://wakatime.com/badge/user/4818b327-9c94-4397-85a6-c82a5027f03c.svg?style=for-the-badge" alt="WakaTime"/></a>
+
 </div>
 
-<!-- Live Activity Graph -->
-<h2 align="center">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">📊 LIVE ACTIVITY FEED 📊</span>
-</h2>
+<br/>
+
+<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
+## `> cat certifications.txt`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codersantoshadhikari&custom_title=SANTOSH'S%20CONTRIBUTION%20GRAPH&bg_color=0D1117&color=00ff9d&line=00ff9d&point=FFFFFF&area=true&area_color=00ff9d&hide_border=true&radius=15" width="95%" />
+
+<img src="https://img.shields.io/badge/MBA-Ethical_Hacking-00FF9D?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/EC--Council-CEH-00FF9D?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Google-Flutter_Certified-00FF9D?style=for-the-badge&logo=flutter&logoColor=00FF9D&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Unity-Certified_Developer-00FF9D?style=for-the-badge&logo=unity&logoColor=00FF9D&labelColor=0D1117"/>
+
 </div>
 
-<!-- Weekly Development Breakdown -->
-<h2 align="center">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">⏱️ WEEKLY CODING METRICS ⏱️</span>
-</h2>
+<br/>
+
+<!-- ═══════════════════ CONTACT ═══════════════════ -->
+## `> ping santosh`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codersantoshadhikari&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=FFFFFF&border_radius=15" width="60%" />
+
+<a href="https://santoshadhikari.com.np"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9D"/></a>
+<a href="https://linkedin.com/in/codersantoshadhikari"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D"/></a>
+<a href="https://twitter.com/santosh215"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF9D"/></a>
+<a href="https://youtube.com/@smaittechnology"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00FF9D"/></a>
+<a href="https://instagram.com/santosh_adhikari_official"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D"/></a>
+<a href="https://wa.me/9779843769073"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00FF9D"/></a>
+<a href="https://t.me/santosh215"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF9D"/></a>
+<a href="https://discord.gg/santosh215"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00FF9D"/></a>
+
+<br/><br/>
+
+<a href="https://buymeacoffee.com/santoshadh7"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+<a href="https://ko-fi.com/santoshadh7"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+<a href="https://github.com/sponsors/codersantoshadhikari"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+
 </div>
 
-<!-- Education & Certifications -->
-<h2 align="center">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">🎓 EDUCATION & CERTIFICATIONS 🎓</span>
-</h2>
+<br/>
 
+<!-- ═══════════════════ SNAKE + FOOTER ═══════════════════ -->
 <div align="center">
-  <table style="border: 2px solid #00ff9d; border-radius: 20px; box-shadow: 0 0 40px #00ff9d22;">
-    <tr>
-      <td align="center" width="250" style="padding: 20px;">
-        <img src="https://img.icons8.com/fluency/96/mba.png" width="60"/>
-        <br/>
-        <b style="color: #00ff9d;">MBA in Ethical Hacking</b>
-        <br/>
-        <sub>Cybersecurity Specialization</sub>
-      </td>
-      <td align="center" width="250" style="padding: 20px;">
-        <img src="https://img.icons8.com/fluency/96/google-logo.png" width="60"/>
-        <br/>
-        <b style="color: #00ff9d;">Flutter Certified</b>
-        <br/>
-        <sub>Google Developers</sub>
-      </td>
-      <td align="center" width="250" style="padding: 20px;">
-        <img src="https://img.icons8.com/fluency/96/unity.png" width="60"/>
-        <br/>
-        <b style="color: #00ff9d;">Unity Certified</b>
-        <br/>
-        <sub>Professional Developer</sub>
-      </td>
-      <td align="center" width="250" style="padding: 20px;">
-        <img src="https://img.icons8.com/fluency/96/security-checked.png" width="60"/>
-        <br/>
-        <b style="color: #00ff9d;">CEH Certification</b>
-        <br/>
-        <sub>EC-Council</sub>
-      </td>
-    </tr>
-  </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codersantoshadhikari/codersantoshadhikari/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/codersantoshadhikari/codersantoshadhikari/output/snake.svg" width="100%" alt="Contribution snake"/>
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,50:003d2b,100:0D1117&height=120&section=footer&text=Let's%20build%20something%20epic&fontSize=22&fontColor=E6EDF3&fontAlignY=65" width="100%"/>
+
 </div>
 
-<!-- Connect Section with Holographic Cards -->
-<h2 align="center">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">🌐 CONNECT WITH ME 🌐</span>
-</h2>
-
-<div align="center">
-  <table style="border: 2px solid #00ff9d; border-radius: 20px; box-shadow: 0 0 40px #00ff9d22;">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <a href="https://santoshadhikari.com.np">
-          <img src="https://img.icons8.com/fluency/96/domain.png" width="50"/>
-          <br/>
-          <b style="color: #00ff9d;">PORTFOLIO</b>
-          <br/>
-          <sub>santoshadhikari.com.np</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="https://linkedin.com/in/codersantoshadhikari">
-          <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50"/>
-          <br/>
-          <b style="color: #00ff9d;">LINKEDIN</b>
-          <br/>
-          <sub>/in/codersantosh</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="https://github.com/codersantoshadhikari">
-          <img src="https://img.icons8.com/fluency/96/github.png" width="50"/>
-          <br/>
-          <b style="color: #00ff9d;">GITHUB</b>
-          <br/>
-          <sub>@codersantosh</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="https://twitter.com/santosh215">
-          <img src="https://img.icons8.com/fluency/96/twitter.png" width="50"/>
-          <br/>
-          <b style="color: #00ff9d;">X (TWITTER)</b>
-          <br/>
-          <sub>@santosh215</sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <a href="https://youtube.com/@smaittechnology">
-          <img src="https://img.icons8.com/fluency/96/youtube.png" width="50"/>
-          <br/>
-          <b style="color: #00ff9d;">YOUTUBE</b>
-          <br/>
-          <sub>SMAIT Tech</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="https://instagram.com/santosh_adhikari_official">
-          <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50"/>
-          <br/>
-          <b style="color: #00ff9d;">INSTAGRAM</b>
-          <br/>
-          <sub>@santosh_adhikari</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="mailto:santosh.ad215@gmail.com">
-          <img src="https://img.icons8.com/fluency/96/gmail.png" width="50"/>
-          <br/>
-          <b style="color: #00ff9d;">EMAIL</b>
-          <br/>
-          <sub>santosh.ad215</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="https://wa.me/+9779843769073">
-          <img src="https://img.icons8.com/fluency/96/whatsapp.png" width="50"/>
-          <br/>
-          <b style="color: #00ff9d;">WHATSAPP</b>
-          <br/>
-          <sub>+977 9843769073</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Support Section -->
-<h2 align="center">
-  <span style="color: #00ff9d; text-shadow: 0 0 20px #00ff9d;">💖 SUPPORT MY WORK 💖</span>
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://buymeacoffee.com/santoshadh7">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://ko-fi.com/santoshadh7">
-          <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/sponsors/codersantoshadhikari">
-          <img src="https://img.shields.io/badge/SPONSOR-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=0D1117&color=00ff9d" width="200"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Live Chat Widget -->
-<div align="center">
-  <a href="https://t.me/santosh215">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="https://discord.gg/santosh215">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="https://signal.me/#santosh215">
-    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white&labelColor=0D1117"/>
-  </a>
-</div>
-
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
-</div>
-
-<!-- Footer with Matrix Rain -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Let's%20Build%20Something%20Epic!&fontSize=30&fontColor=00ff9d&animation=twinkling&fontAlignY=70" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Let's%20Build%20Something%20Epic!&fontSize=30&fontColor=00ff9d&animation=twinkling&fontAlignY=70" width="100%" />
-  </picture>
-</div>
-
-<!-- Hidden Terminal Easter Egg -->
-<!-- 
+<!--
   ┌──(santosh㉿kali)-[~]
-  └─$ whoami
-  Senior Software Architect | CEO @ SMAIT Technology
-  ┌──(santosh㉿kali)-[~]
-  └─$ skills --list
-  Mobile Development  [██████████] 95%
-  Game Development    [██████████] 98%
-  Cyber Security      [██████████] 92%
-  Cloud Computing     [██████████] 90%
+  └─$ echo "thanks for scrolling this far 👋"
 -->
-
-<!-- Auto Update Badge -->
-<div align="center">
-  <sub>
-    <img src="https://img.shields.io/badge/🔄_Auto_Refresh-24/7-00ff9d?style=flat" />
-    <img src="https://img.shields.io/badge/📅_Last_Update-2024-00ff9d?style=flat" />
-    <img src="https://img.shields.io/badge/⚡_Status-Online-00ff9d?style=flat" />
-    <img src="https://img.shields.io/badge/🧠_AI_Powered-Enabled-00ff9d?style=flat" />
-    <img src="https://img.shields.io/badge/🎮_Gaming_Architect-Expert-00ff9d?style=flat" />
-    <img src="https://img.shields.io/badge/🛡️_Security_Level-Maximum-00ff9d?style=flat" />
-    <img src="https://img.shields.io/badge/📱_Mobile_Master-Elite-00ff9d?style=flat" />
-  </sub>
-</div>
